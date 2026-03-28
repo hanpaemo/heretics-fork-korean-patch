@@ -108,7 +108,7 @@ A. 게임 업데이트에 따라 패치 재설치가 필요할 수 있습니다.
 
 ## 👤 제작
 
-**한패모** - 인디게임 한글패치 모음
+**한패모** — 인디게임 한글패치 모음
 - GitHub: https://github.com/hanpaemo
 - 블로그: https://hanpaemo.blogspot.com
 
